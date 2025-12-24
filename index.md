@@ -16,7 +16,7 @@ I’m an IT Project Manager with a Computer Science background and 5+ years of e
 - **Experience:** OPS · Treasury Board Secretariat · CGI (Bell Canada) · CIBC  
 - **Focus:** Infrastructure delivery · Identity & directory-dependent initiatives · Cybersecurity delivery · Modernization programs  
 - **Target roles:** IT Project Manager · Delivery Manager · Technical Program Manager · Product Owner / Platform Product (adjacent)
-[View Projects](/projects/) • [About](/about/) • [Blog](/archives/)
+[View Projects](/projects/) • [About](/about/) • [Blog](/blog/)
 ---
 
 ## Selected Work
