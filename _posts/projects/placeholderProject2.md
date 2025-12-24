@@ -4,7 +4,7 @@ date: 2025-01-02
 categories: [Projects]
 tags: [Cybersecurity, Risk, Stakeholders, Delivery]
 image:
-  path: /assets/img/projects/cyber.jpg
+  path: /assets/img/projects/placeholder.jpg
   alt: "Cybersecurity Delivery"
 excerpt: "Case study placeholder. This entry will cover planning, coordination, and risk management for a cybersecurity initiative."
 ---

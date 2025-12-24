@@ -4,7 +4,7 @@ date: 2025-01-03
 categories: [Projects]
 tags: [Roadmap, User Research, Modernization, Product]
 image:
-  path: /assets/img/projects/vms.jpg
+  path: /assets/img/projects/placeholder.jpg
   alt: "Vendor Management Platform Modernization"
 excerpt: "Case study placeholder. This entry will describe roadmap creation, stakeholder alignment, and incremental delivery."
 ---
