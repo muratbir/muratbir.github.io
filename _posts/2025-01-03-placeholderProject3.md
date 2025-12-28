@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [Roadmap, User Research, Modernization, Product]
 image:
   path: /assets/img/projects/placeholder.jpg
-  alt: "Vendor Management Platform Modernization"
+  alt: "Project cover image"
 excerpt: "Case study placeholder. This entry will describe roadmap creation, stakeholder alignment, and incremental delivery."
 ---
 
