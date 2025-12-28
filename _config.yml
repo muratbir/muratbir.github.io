@@ -224,3 +224,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    
+cdn:
+  css:
+    - /assets/css/projects-grid.css
