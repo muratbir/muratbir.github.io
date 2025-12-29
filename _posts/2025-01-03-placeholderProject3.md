@@ -3,9 +3,6 @@ title: "Vendor Management Platform Modernization (Treasury Board Secretariat)"
 date: 2025-01-03
 categories: [Projects]
 tags: [Roadmap, User Research, Modernization, Product]
-image:
-  path: /assets/img/projects/placeholder.jpg
-  alt: "Project cover image"
 excerpt: "Case study placeholder. This entry will describe roadmap creation, stakeholder alignment, and incremental delivery."
 ---
 

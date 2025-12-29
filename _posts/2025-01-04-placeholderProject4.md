@@ -3,9 +3,6 @@ title: "Telecom Billing Modernization (Bell Canada via CGI)"
 date: 2025-01-04
 categories: [Projects]
 tags: [Systems, Integration, Consulting, Modernization]
-image:
-  path: /assets/img/projects/placeholder.jpg
-  alt: "Project cover image"
 excerpt: "Case study placeholder. This entry will cover requirements clarification, cross-functional alignment, and modernization support."
 ---
 

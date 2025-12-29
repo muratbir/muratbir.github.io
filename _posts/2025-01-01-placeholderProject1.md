@@ -3,9 +3,6 @@ title: "Infrastructure & Identity Delivery (Ontario Public Service – ITS)"
 date: 2025-01-01
 categories: [Projects]
 tags: [Infrastructure, Identity, Directory, Delivery]
-image:
-  path: /assets/img/projects/placeholder.jpg
-  alt: "Project cover image"
 excerpt: "Case study placeholder. This entry will describe scope, approach, stakeholders, and delivery outcomes at a high level."
 ---
 
