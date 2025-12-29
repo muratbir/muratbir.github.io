@@ -1,3 +1,15 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
 /* Scoped Projects grid — won't affect other pages */
 .mb-projects-grid {
   display: grid;
