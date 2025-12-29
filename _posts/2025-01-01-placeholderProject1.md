@@ -6,6 +6,8 @@ tags: [Infrastructure, Identity, Directory, Delivery]
 excerpt: "Case study placeholder. This entry will describe scope, approach, stakeholders, and delivery outcomes at a high level."
 ---
 
+![Infrastructure & Identity Delivery](/assets/img/projects/placeholder.jpg)
+
 ## Overview
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

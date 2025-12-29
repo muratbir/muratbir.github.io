@@ -6,6 +6,8 @@ tags: [Systems, Integration, Consulting, Modernization]
 excerpt: "Case study placeholder. This entry will cover requirements clarification, cross-functional alignment, and modernization support."
 ---
 
+![Infrastructure & Identity Delivery](/assets/img/projects/placeholder.jpg)
+
 ## Overview
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

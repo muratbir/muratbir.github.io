@@ -6,6 +6,8 @@ tags: [Roadmap, User Research, Modernization, Product]
 excerpt: "Case study placeholder. This entry will describe roadmap creation, stakeholder alignment, and incremental delivery."
 ---
 
+![Infrastructure & Identity Delivery](/assets/img/projects/placeholder.jpg)
+
 ## Overview
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
