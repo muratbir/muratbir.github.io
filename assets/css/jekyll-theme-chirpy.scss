@@ -35,11 +35,12 @@
   border-color: rgba(255, 255, 255, 0.18);
 }
 
-.mb-project-img {
+.mb-project-thumb {
   width: 100%;
   height: 180px;
-  object-fit: cover;
-  display: block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .mb-project-card-body {
@@ -57,13 +58,12 @@
   opacity: 0.85;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
   .mb-projects-grid {
     grid-template-columns: 1fr;
   }
 
-  .mb-project-img {
+  .mb-project-thumb {
     height: 200px;
   }
 }
