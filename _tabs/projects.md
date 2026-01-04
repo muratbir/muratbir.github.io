@@ -31,7 +31,7 @@ permalink: /projects/
   </a>
 
   <a class="mb-project-card" href="/posts/placeholderProject4/">
-    <div class="mb-project-thumb" style="background-image:url('/assets/img/projects/bell-field-operations.jpg');"></div>
+    <div class="mb-project-thumb" style="background-image:url('/assets/img/projects/bell-field-operations.png');"></div>
     <div class="mb-project-card-body">
       <h3>Telecom Billing Modernization (Bell Canada via CGI)</h3>
       <p>Lorem ipsum one-liner placeholder.</p>

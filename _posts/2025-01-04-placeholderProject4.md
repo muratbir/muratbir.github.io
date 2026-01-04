@@ -5,7 +5,7 @@ categories: [Projects]
 tags: [Consulting, Product, Agile, Delivery, Telecom, Modernization]
 excerpt: "Led product delivery and agile transformation for a modern field technician platform at Bell Canada, driving faster delivery, improved workflows, and full user adoption."
 image:
-  path: /assets/img/projects/bell-field-operations.jpg
+  path: /assets/img/projects/bell-field-operations.png
   alt: "Field operations platform modernization"
 ---
 
